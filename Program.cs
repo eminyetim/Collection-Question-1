@@ -57,7 +57,7 @@ class Program
             System.Console.WriteLine(item);
         }
 
-        System.Console.WriteLine("Avarage Prime List :" + Convert.ToDouble((sumPrime/20)) );
-        System.Console.WriteLine("Avarage Not Prime List :" + Convert.ToDouble((sumNotPrime/20)) );
+        System.Console.WriteLine("Average Prime List :" + Convert.ToDouble((sumPrime/20)) );
+        System.Console.WriteLine("Average Not Prime List :" + Convert.ToDouble((sumNotPrime/20)) );
     }
 }
